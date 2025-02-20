@@ -1,5 +1,9 @@
 <h1 align="center"> Olá 👋, sou Luis Fernando </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacdev07&label=Profile%20views&color=0e75b6&style=flat" alt="isaacdev07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaacdev07" alt="isaacdev07" /></a> </p>
+
 ## 💫 Sobre Mim:
 🎮 Jogador de Valorant | 💻 Desenvolvedor entusiasta | ☁️ Apaixonado por Cloud e DevOps
 
