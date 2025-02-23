@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyms6&label=Profile%20views&color=0e75b6&style=flat" alt="xyms6" /> </p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=xyms6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -49,7 +48,7 @@
 
 ## 🏆 Conquistas no GitHub
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xyms6&theme=aura&no-frame=true&no-bg=true&margin-w=4)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=xyms6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
