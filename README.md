@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/xyms6=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyms6" alt="xyms6" /></a> </p>
+
 
 ## 💫 Sobre Mim:
 🎮 Jogador de Valorant | 💻 Desenvolvedor entusiasta | ☁️ Apaixonado por Cloud e DevOps
