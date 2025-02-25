@@ -30,9 +30,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-### Cloud & DevOps
-
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
@@ -54,13 +51,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=xyms6&icon=10&color=12)](https://visitcount.itsvg.in)
 
----
 
-## 🎯 Objetivos para 2025
-
-- 💡 Aprimorar conhecimentos em **DevOps** e **Cloud Computing**
-- 🚀 Contribuir para projetos **Open Source**
-- 📚 Aprender novas tecnologias e melhorar minhas habilidades de desenvolvimento
-- 🎮 Criar projetos voltados para a comunidade **gamer**
-
-📩 **Fique à vontade para entrar em contato!** Vamos construir algo incrível juntos. 😃
