@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucascorrea/lucascorrea/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
 
 ###
 
