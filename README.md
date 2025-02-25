@@ -13,12 +13,6 @@
 
 ---
 
-###
-
-<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 ## 🌐 Redes Sociais
@@ -29,6 +23,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srtoddy.surf@gmail.com)
 
 ---
+
+###
+
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ## 🖥️ Tecnologias que uso
 
