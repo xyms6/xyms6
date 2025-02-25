@@ -50,7 +50,7 @@
 
 ## 🏆 Conquistas no GitHub
 
-[[![Trophy](https://github-profile-trophy.vercel.app/?username=xyms6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=xyms6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
