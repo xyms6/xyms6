@@ -13,6 +13,14 @@
 
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+
+###
+
+---
+
 ## 🌐 Redes Sociais
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xymsko)
