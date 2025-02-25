@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xyms6/xyms6/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lucascorrea/lucascorrea/output/snake.svg" alt="Snake animation" />
 
 ###
 
