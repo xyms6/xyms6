@@ -43,9 +43,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyms6&theme=aura&hide_border=true&include_all_commits=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyms6&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyms6&theme=aura&hide_border=true&include_all_commits=false&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyms6&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
