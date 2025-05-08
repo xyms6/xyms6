@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyms6&label=Profile%20views&color=0e75b6&style=flat" alt="xyms6" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Eai,+meu+nome+é+Luis+Fernando;Eu+Sou+Um+Developer+Entusiasmado;E+Amo+GitHub+e+DevOps;Bem-vindo!+:%29)](https://git.io/typing-svg)
