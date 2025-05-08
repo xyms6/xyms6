@@ -32,4 +32,4 @@
 ### Other Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,,mysql,git,github,azure)](https://skillicons.dev)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
