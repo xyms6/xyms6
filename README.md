@@ -17,10 +17,10 @@
 </p>
 
 <div align="center">
-    <a href="https://discord.gg/xymsko" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/xymsko" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitch.tv/xymssz" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" target="_blank"></a>
-    <a href="mailto:srtoddy.surf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/xymsko" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=red" target="_blank"></a>
+    <a href="https://instagram.com/xymsko" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=red" target="_blank"></a>
+    <a href="https://twitch.tv/xymssz" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=red" target="_blank"></a>
+    <a href="mailto:srtoddy.surf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 ### Main skills:
